@@ -33,12 +33,4 @@ async def functions(ctx):
     await ctx.send(f'Вот все мои функции. $hello; $garbage; $mem; $functions. Приятного использования:upside_down: ')
 
 
-bot.run("MTEwOTg0NjkzMDY1NTI4OTM0NA.GUYUQE.LChGXStB-0sZt1iL5goT4NH_itbpt-LjnrNfUE")
-
-
-
-
-
-#@bot.command()
-#async def heh(ctx, count_heh = 5):
-#    await ctx.send("he" * count_heh)
+bot.run("ТУТ СЕКРЕТНЫЙ ТОКЕН ТВОЕГО БОТА")
